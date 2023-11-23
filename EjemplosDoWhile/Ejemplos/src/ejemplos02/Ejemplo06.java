@@ -32,6 +32,12 @@ public class Ejemplo06 {
         int operacion;
         int contador = 1;
         int limite;
+        System.out.println("Ingrese el numero de la tabla de"
+                + " multiplicar que desee obtener ");
+        tabla = entrada.nextInt();
+        // 8. potencia <-- 3
+        System.out.println("Ingrese el limite de la tabla");
+        limite = entrada.nextInt();
         
         do {
             operacion = tabla * contador;

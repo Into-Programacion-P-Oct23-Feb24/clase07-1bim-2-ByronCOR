@@ -27,10 +27,10 @@ public class Ejemplo05 {
         // 6. resultado, i[0, n]
         int resultado;
         // numero <-- 4
-        System.out.println("Ingrese el nùmero base");
+        System.out.println("Ingrese el nùmero base de la potencia");
         numero = entrada.nextInt();
         // 8. potencia <-- 3
-        System.out.println("Ingrese el exponente");
+        System.out.println("Ingrese el exponente de la potencia");
         potencia = entrada.nextInt();
         // 9. resultado <-- 1
         resultado = 1;
