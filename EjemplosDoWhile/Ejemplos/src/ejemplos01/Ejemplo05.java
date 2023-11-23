@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+permite sacar la potencia de el numero en especifico a un exponente 
+multiplicando el mismo nuemro varia veces 
  */
 package ejemplos01;
 
@@ -19,9 +18,9 @@ public class Ejemplo05 {
         // 6. resultado, i[0, n]
         int resultado;
         // numero <-- 4
-        numero = 4;
+        numero = 3;
         // 8. potencia <-- 3
-        potencia = 3;
+        potencia = 2;
         // 9. resultado <-- 1
         resultado = 1;
 
